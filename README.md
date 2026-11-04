@@ -213,4 +213,4 @@ yWriter is offered as a full free version with all features and updates included
 Elevate your writing journey today! Download yWriter and explore its powerful features—all for free.
 
 ---
-**Last updated:** 2026-11-03 23:47:12 UTC
+**Last updated:** 2026-11-04 03:54:32 UTC
